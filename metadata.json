@@ -1,0 +1,5 @@
+{
+  "name": "SIDAP - Dinas Arsip & Perpustakaan",
+  "description": "Sistem Pelaporan Kegiatan Pegawai Dinas Arsip dan Perpustakaan. Fitur mencakup input laporan, verifikasi admin, dashboard eksekutif, dan pengarsipan digital.",
+  "requestFramePermissions": []
+}
